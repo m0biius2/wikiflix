@@ -1,3 +1,9 @@
+# WikiFlix
+
+Projeto desenvolvido em Dart/Flutter com objetivo de ser uma wiki de filmes a partir da API TMDB (The Movie Database)
+
+* https://www.themoviedb.org/?language=pt-br
+
 # proj_letterflix
 
 A new Flutter project.
